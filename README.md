@@ -24,6 +24,7 @@ Make sure you have the following software installed:
 
 ### Frontend Setup
 1.Navigate to the 'backend' folder.
+        ```bash 
          cd backend
          write command: npm install
          now: node server.js
